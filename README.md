@@ -72,7 +72,7 @@ Print the sum of three variables 'a', 'b', 'c';
 Assign 24 (int value) to 'a' variable;\
 Assign 3 (int value) to 'b' variable;\
 Assign 5 (int value) to 'c' variable;\
-Assign the result of the expression to 'k' variable: <img src="https://latex.codecogs.com/gif.latex?\(k=a-b+c)" />;\
+Assign the result of the expression to variable 'k': <img src="https://latex.codecogs.com/gif.latex?\(k=a-b+c)" />;\
 Print the variable 'k'.
 
 **Input**:*a, b, c*.\
@@ -113,7 +113,7 @@ Assign 8 (int value) to 'a' variable;\
 Assign 3 (int value) to 'b' variable;\
 Assign 2 (int value) to 'c' variable;\
 Assign 4 (int value) to 'd' variable;\
-Assign the result of the expression to 'k' variable: <img src="https://latex.codecogs.com/gif.latex?\(k=a+b-cd)" />;\
+Assign the result of the expression to variable 'k': <img src="https://latex.codecogs.com/gif.latex?\(k=a+b-cd)" />;\
 Print the variable 'k'.
 
 **Input**:*a, b, c, d*.\
@@ -128,7 +128,7 @@ Assign 5 (int value) to 'a' variable;\
 Assign 4 (int value) to 'b' variable;\
 Assign 2 (int value) to 'c' variable;\
 Assign 8 (int value) to 'd' variable;\
-Assign the result of the expression to 'k' variable: <img src="https://latex.codecogs.com/gif.latex?\(k=2(ab-cd))" />;\
+Assign the result of the expression to variable 'k': <img src="https://latex.codecogs.com/gif.latex?\(k=2(ab-cd))" />;\
 Print the variable 'k'.
 
 **Input**:*a, b, c, d*.\

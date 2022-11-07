@@ -1,2 +1,5 @@
-# Quyidagi README faylda masala sharti berilgan
-# https://github.com/codeschool-2022A/variables_and_types#begin03
+# Assign 6 (int value) to 'a' variable;
+
+# Assign 8 (int value) to 'b' variable;
+
+# Print the multiplicand 'a' and 'b'.

@@ -1,2 +1,5 @@
-# Quyidagi README faylda masala sharti berilgan
-# https://github.com/codeschool-2022A/variables_and_types#begin04
+# Assign 12 (int value) to 'a' variable;
+
+# Assign 3 (int value) to 'b' variable;
+
+# Print the division of a by b.
