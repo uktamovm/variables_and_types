@@ -75,7 +75,7 @@ Assign 5 (int value) to 'c' variable;\
 Assign the result of the expression to 'k' variable: <img src="https://latex.codecogs.com/gif.latex?\(k=a-b+c)" />;\
 Print the variable 'k'.
 
-**Input**:*x, y*.\
+**Input**:*a, b, c*.\
 **Output**: *k*.
 
 |   **Input**   |   **Output**     |
@@ -131,7 +131,7 @@ Assign 8 (int value) to 'd' variable;\
 Assign the result of the expression to 'k' variable: <img src="https://latex.codecogs.com/gif.latex?\(k=2(ab-cd))" />;\
 Print the variable 'k'.
 
-**Input**:*a, b, c*.\
+**Input**:*a, b, c, d*.\
 **Output**: *Natijani chiqaring*.
 
 |   **Input**   |   **Output**     |
