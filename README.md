@@ -4,10 +4,10 @@
 
 Assign 5 (int value) to 'num_one' variable;\
 Assign 4 (int value) to 'num_two' variable;\
-Print sum of 'num_one' and 'num_two;
+Print the sum of 'num_one' and 'num_two'.
 
-**Input**:*num_one,num_two*.\
-**Output**: *sum of two variables*.
+**Input**:*num_one, num_two*.\
+**Output**: *the sum*.
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
@@ -15,12 +15,12 @@ Print sum of 'num_one' and 'num_two;
 
 ## begin02
 
-a o'zgaruvchiga 7 ni taminlang;\
-b o'zgaruvchiga 3 ni taminlang;\
-a va b o'zgaruvchilar ayirmasini chop eting;
+Assign 7 (int value) to 'a' variable;\
+Assign 3 (int value) to 'b' variable;\
+Print the difference between 'a' and 'b'.
 
 **Input**:*a, b*.\
-**Output**: *Natijani chiqaring*.
+**Output**: *the difference*.
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
@@ -28,12 +28,12 @@ a va b o'zgaruvchilar ayirmasini chop eting;
 
 ## begin03
 
-a o'zgaruvchiga 6 ni taminlang;\
-b o'zgaruvchiga 8 ni taminlang;\
-a va b o'zgaruvchilar ko'paytmasini chop eting;
+Assign 6 (int value) to 'a' variable;\
+Assign 8 (int value) to 'b' variable;\
+Print the multiplicand 'a' and 'b'.
 
 **Input**:*a, b*.\
-**Output**: *Natijani chiqaring*.
+**Output**: *the multiplicand*.
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
@@ -41,26 +41,26 @@ a va b o'zgaruvchilar ko'paytmasini chop eting;
 
 ## begin04
 
-a o'zgaruvchiga 12 ni taminlang;\
-b o'zgaruvchiga 3 ni taminlang;\
-a ni b ga bo'lgandagi natijani chop eting;
+Assign 12 (int value) to 'a' variable;\
+Assign 3 (int value) to 'b' variable;\
+Print the division of a by b.
 
 **Input**:*a, b*.\
-**Output**: *Natijani chiqaring*.
+**Output**: *the division*.
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
-|12  3          |4                |
+|12  3          |4.0              |
 
 ## begin05
 
-a o'zgaruvchiga 7 ni taminlang;\
-b o'zgaruvchiga 3 ni taminlang;\
-c o'zgaruvchiga 5 ni taminlang;\
-a, b, c o'zgaruvchilar yig'indisini chop eting;
+Assign 7 (int value) to 'a' variable;\
+Assign 3 (int value) to 'b' variable;\
+Assign 5 (int value) to 'c' variable;\
+Print the sum of three variables 'a', 'b', 'c';
 
 **Input**:*a, b, c*.\
-**Output**: *Natijani chiqaring*.
+**Output**: *the sum*.
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
@@ -69,68 +69,67 @@ a, b, c o'zgaruvchilar yig'indisini chop eting;
 
 
 ## begin06
-a o'zgaruvchiga 24 ni taminlang;\
-b o'zgaruvchiga 3 ni taminlang;\
-c o'zgaruvchiga 5 ni taminlang;\
-Quyidagi ifodani K ga taminglang va chop eting; <img src="https://latex.codecogs.com/gif.latex?\(K=a-b+c)" />.
+Assign 24 (int value) to 'a' variable;\
+Assign 3 (int value) to 'b' variable;\
+Assign 5 (int value) to 'c' variable;\
+Assign the result of the expression to 'k' variable: <img src="https://latex.codecogs.com/gif.latex?\(k=a-b+c)" />;\
+Print the variable 'k'.
 
-**Input**:*x, y (float)*.\
-**Output**: *Natijani chiqaring (float)*.
+**Input**:*x, y*.\
+**Output**: *k*.
 
 |   **Input**   |   **Output**     |
 |---------------|------------------|
 |24  3  5       |26                |
 
 ## begin07
-a o'zgaruvchiga 5 ni taminlang;\
-b o'zgaruvchiga 4 ni taminlang;\
-c o'zgaruvchiga 8 ni taminlang;\
-Quyidagi ifodani natijaga chop eting; <img src="https://latex.codecogs.com/gif.latex?\(\frac{2a}{b})c" />.
+Assign 5 (int value) to 'a' variable;\
+Assign 4 (int value) to 'b' variable;\
+Assign 8 (int value) to 'c' variable;\
+Print the result of the expression: <img src="https://latex.codecogs.com/gif.latex?\(\frac{2a}{b})c" />.
 
 **Input**:*a, b, c*.\
-**Output**: *Natijani chiqaring*.
+**Output**: *the result of the expression*.
 
 |   **Input**   |   **Output**     |
 |---------------|------------------|
 |5  4  8        |20.0              |
 
 ## begin08
-a o'zgaruvchiga 5 ni taminlang;\
-b o'zgaruvchiga 4 ni taminlang;\
-c o'zgaruvchiga 8 ni taminlang;\
-
-Quyidagi ifodani natijaga chop eting: <img src="https://latex.codecogs.com/gif.latex?\frac{ab}{c}" />.
+Assign 5 (int value) to 'a' variable;\
+Assign 4 (int value) to 'b' variable;\
+Assign 8 (int value) to 'c' variable;\
+Print the result of the expression: <img src="https://latex.codecogs.com/gif.latex?\frac{ab}{c}" />.
 
 **Input**:*a, b, c*.\
-**Output**: *Natijani chiqaring*.
+**Output**: *the result of the expression*.
 
 |   **Input**   |   **Output**     |
 |---------------|------------------|
 |5  4  8        |2.5               |
 
 ## begin09
-a o'zgaruvchiga 8 ni taminlang;\
-b o'zgaruvchiga 3 ni taminlang;\
-c o'zgaruvchiga 2 ni taminlang;\
-d o'zgaruvchiga 4 ni taminlang;\
+Assign 8 (int value) to 'a' variable;\
+Assign 3 (int value) to 'b' variable;\
+Assign 2 (int value) to 'c' variable;\
+Assign 4 (int value) to 'd' variable;\
+Assign the result of the expression to 'k' variable: <img src="https://latex.codecogs.com/gif.latex?\(k=a+b-cd)" />;\
+Print the variable 'k'.
 
-Quyidagi ifodani natijaga chop eting: <img src="https://latex.codecogs.com/gif.latex?\(K=a+b-cd)" />.
-
-**Input**:*a, b, c*.\
-**Output**: *Natijani chiqaring*.
+**Input**:*a, b, c, d*.\
+**Output**: *the result of the expression*.
 
 |   **Input**   |   **Output**     |
 |---------------|------------------|
 |8 3 2 4        |3                 |
 
 ## begin10
-
-a o'zgaruvchiga 5 ni taminlang;
-b o'zgaruvchiga 4 ni taminlang;
-c o'zgaruvchiga 2 ni taminlang;
-d o'zgaruvchiga 8 ni taminlang;
-
-Quyidagi ifodaning natijasini chop eting: <img src="https://latex.codecogs.com/gif.latex?\(K=2(ab-cd))" />.
+Assign 5 (int value) to 'a' variable;\
+Assign 4 (int value) to 'b' variable;\
+Assign 2 (int value) to 'c' variable;\
+Assign 8 (int value) to 'd' variable;\
+Assign the result of the expression to 'k' variable: <img src="https://latex.codecogs.com/gif.latex?\(k=2(ab-cd))" />;\
+Print the variable 'k'.
 
 **Input**:*a, b, c*.\
 **Output**: *Natijani chiqaring*.
