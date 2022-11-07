@@ -2,12 +2,12 @@
 
 ## begin01
 
-num_one o'zgaruvchiga 5 ni taminlang;\
-num_two o'zgaruvchiga 4 ni taminlang;\
-Yig'indisini chop eting;
+Assign 5 (int value) to 'num_one' variable;\
+Assign 4 (int value) to 'num_two' variable;\
+Print sum of 'num_one' and 'num_two;
 
 **Input**:*num_one,num_two*.\
-**Output**: *Natijani chiqaring*.
+**Output**: *sum of two variables*.
 
 |   **Input**   |   **Output**    |
 |---------------|-----------------|

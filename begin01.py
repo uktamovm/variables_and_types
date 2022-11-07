@@ -1,5 +1,5 @@
-# num_one o'zgaruvchiga 5 ni taminlang;
+# Assign 5 (int value) to 'num_one' variable;
 
-# num_two o'zgaruvchiga 4 ni taminlang;
+# Assign 4 (int value) to 'num_two' variable;
 
-# Yig'indisini chop eting;
+# Print sum of 'num_one' and 'num_two;
