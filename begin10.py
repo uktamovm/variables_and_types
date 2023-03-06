@@ -6,6 +6,6 @@
 
 # Assign 8 (int value) to 'd' variable;
 
-# Assign the result of that expression 'https://github.com/codeschool-2022A/variables_and_types#begin10' to variable 'k';
+# Find the result of that expression 'https://github.com/codeschool-2022A/variables_and_types#begin10' to variable 'k';
 
 # # Print the variable 'k'.
