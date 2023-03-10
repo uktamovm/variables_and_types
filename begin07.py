@@ -4,4 +4,4 @@
 
 # Assign 8 (int value) to 'c' variable;
 
-# Print the result of that expression 'https://github.com/codeschool-2022A/variables_and_types#begin07';
+# Print the result of that expression 'https://github.com/Final-PythonFoundationHomework/variables_and_types/blob/main/README.md#begin07'
