@@ -4,6 +4,6 @@
 
 # Assign 5 (int value) to 'c' variable;
 
-# Find the result of that expression 'https://github.com/codeschool-2022A/variables_and_types#begin06' to variable 'k';
+# Find the result of that expression 'https://github.com/Final-PythonFoundationHomework/variables_and_types/blob/main/README.md#begin06'
 
 # # Print the variable 'k'.
